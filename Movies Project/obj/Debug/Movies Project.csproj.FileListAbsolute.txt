@@ -1,0 +1,15 @@
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\bin\Debug\Movies Project.exe.config
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\bin\Debug\Movies Project.exe
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\bin\Debug\Movies Project.pdb
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project.csprojResolveAssemblyReference.cache
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\MainWindow.g.cs
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\App.g.cs
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project_MarkupCompile.cache
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project_MarkupCompile.lref
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\MainWindow.baml
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project.g.resources
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies_Project.Properties.Resources.resources
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project.csproj.GenerateResource.Cache
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project.csproj.CoreCompileInputs.cache
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project.exe
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Movies Project\Movies Project\obj\Debug\Movies Project.pdb
